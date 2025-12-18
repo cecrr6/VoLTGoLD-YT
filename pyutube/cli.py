@@ -89,13 +89,19 @@ version_option = typer.Option(
 @app.command(
     name="download",
     help="""
-Download a [red]YouTube[/red] [green]videos[/green] [blue](as
-video or audio)[/blue], [green]shorts[/green], and [green]playlists[/green].
-    """,
+Download YouTube videos (video or audio), shorts, and playlists
+using gold-dl.
+""",
     epilog="""
-Made with ❤️  By Ebraheem. Find me on GitHub: [link=https://github.com/Hetari]@Hetari[/link].
+Made by VOLT5775
 
-The project lives on [link=https://github.com/Hetari/pyutube]@Hetari/pyutube[/link].\n\nThank you for using Pyutube! and your support :star:
+GitHub:
+https://github.com/VOLT5775
+
+Project Repository:
+https://github.com/VOLT5775/VoLTGoLD-YT
+
+Thank you for using gold-dl
 """,
 )
 

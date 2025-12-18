@@ -16,8 +16,8 @@ from termcolor import colored
 from pytubefix import __version__ as pytubefix_version
 
 
-__version__ = "1.5.0"
-__app__ = "pyutube"
+__app__ = "gold-dl"
+__version__ = "2.0.0"
 ABORTED_PREFIX = "Aborted"
 CANCEL_PREFIX = "Cancel"
 
@@ -248,7 +248,7 @@ def check_for_updates() -> None:
     libraries = {
         'pyutube': {
             'version': __version__,
-            'repository': 'https://github.com/Hetari/pyutube'
+            'repository': 'https://github.com/VOLT5775/VoLTGoLD-YT'
         },
         'pytubefix': {
             'version': pytubefix_version,

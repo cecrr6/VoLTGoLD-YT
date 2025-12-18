@@ -17,7 +17,7 @@ We welcome various types of contributions, including but not limited to:
 
 ### What We're NOT Looking For
 
-Please refrain from using the issue tracker for support questions. For any inquiries or assistance, feel free to reach out to us through [email](hetari3all@gmail.com).
+Please refrain from using the issue tracker for support questions. For any inquiries or assistance, feel free to reach out to us through [email](gmail.com).
 
 ## Ground Rules
 

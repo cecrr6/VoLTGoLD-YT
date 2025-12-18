@@ -10,8 +10,9 @@ Example:
     >>> app.run()
 
 """
-from .cli import app
 
 
 # List the symbols you want to export from this module
 # __all__ = ['app']
+__app__ = "pyutube"
+__version__ = "1.5.1"

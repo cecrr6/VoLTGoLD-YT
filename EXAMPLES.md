@@ -5,10 +5,10 @@
 
 ## **1. Show Version:**
 
-Check the current version of `Pyutube`:
+Check the current version of `gold-dl`:
 
 ```bash
-pyutube -v
+gold-dl -v
 ```
 
 ## **2. Download Playlists:**
@@ -16,7 +16,7 @@ pyutube -v
 Eager to grab an entire playlist? Just run:
 
 ```bash
-pyutube "YOUTUBE_PLAYLIST_LINK" [the_download_path]
+gold-dl "YOUTUBE_PLAYLIST_LINK" [the_download_path]
 ```
 
 1. Choose the download format: video or audio.
@@ -29,7 +29,7 @@ The tool will check all available resolutions from the first video in the playli
 Ready to download a single short, video, or audio track? Use:
 
 ```bash
-pyutube "YOUTUBE_LINK" OR "SHORT_LINK" [the_download_path]
+gold-dl "YOUTUBE_LINK" OR "SHORT_LINK" [the_download_path]
 ```
 
 1. Select the format: video or audio.
@@ -38,8 +38,8 @@ pyutube "YOUTUBE_LINK" OR "SHORT_LINK" [the_download_path]
 Examples:
 
 ```bash
-pyutube youtu.be/cMPnY7EuZvo
-pyutube https://youtube.com/watch?v=cMPnY7EuZvo
+gold-dl youtu.be/cMPnY7EuZvo
+gold-dl https://youtube.com/watch?v=cMPnY7EuZvo
 ```
 
 ## **4. Download Audio Immediately:**
@@ -47,14 +47,14 @@ pyutube https://youtube.com/watch?v=cMPnY7EuZvo
 Want to grab just the audio? Run:
 
 ```bash
-pyutube "YOUTUBE_LINK" OR "SHORT_LINK" [the_download_path] -a
+gold-dl "YOUTUBE_LINK" OR "SHORT_LINK" [the_download_path] -a
 ```
 
 Examples:
 
 ```bash
-pyutube cMPnY7EuZvo -a
-pyutube -a youtu.be/cMPnY7EuZvo
+gold-dl cMPnY7EuZvo -a
+gold-dl -a youtu.be/cMPnY7EuZvo
 ```
 
 And you’re all set! 🎉
@@ -64,7 +64,7 @@ And you’re all set! 🎉
 Need the video fast? Use:
 
 ```bash
-pyutube <Y"OUTUBE_LINK" OR "SHORT_LINK" [the_download_path] -f
+gold-dl <Y"OUTUBE_LINK" OR "SHORT_LINK" [the_download_path] -f
 ```
 
 1. Choose your desired resolution.
@@ -72,8 +72,8 @@ pyutube <Y"OUTUBE_LINK" OR "SHORT_LINK" [the_download_path] -f
 Examples:
 
 ```bash
-pyutube cMPnY7EuZvo -f
-pyutube -f youtu.be/cMPnY7EuZvo
+gold-dl cMPnY7EuZvo -f
+gold-dl -f youtu.be/cMPnY7EuZvo
 ```
 
 Sit back, relax, and enjoy your video! 🎉

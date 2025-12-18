@@ -1,45 +1,38 @@
-# 📹 Pyutube - The Simplest YouTube Downloader CLI
+# 📹 gold-dl - The Simplest YouTube Downloader CLI
+# Telegram User Dev ~ @CB6BB
 
 ### Enjoying my project? Please show your appreciation by starring it on GitHub! ⭐
 
-<a href="https://github.com/Hetari/pyutube">
-  <img src="https://img.shields.io/pypi/v/pyutube.svg?style=flat&label=Version" alt="Version">
-</a>
-<a href="https://pepy.tech/projects/pyutube">
-  <img src="https://static.pepy.tech/badge/pyutube" alt="Downloads">
-</a>
-<a href="https://pepy.tech/projects/pyutube">
-  <img src="https://static.pepy.tech/badge/pyutube/month" alt="Downloads per Month">
-</a>
-<a href="https://pepy.tech/projects/pyutube">
-  <img src="https://static.pepy.tech/badge/pyutube/week" alt="Downloads per Week">
-</a>
+
 
 <br />
 <br />
 
-> [!NOTE] > `Pyutube` is built on top of `pytubefix`, make sure to have the latest version of `pytubefix` by running:
+> [!NOTE] > `gold-dl` is built on top of `pytubefix`, make sure to have the latest version of `pytubefix` by running:
 >
 > ```bash
 > pip install --upgrade pytubefix
 > ```
 
-<a href="https://ibb.co/27wcFYN">
-   <img src="https://i.ibb.co/MDbPg56/Screenshot-from-2024-04-08-21-38-02-transformed.png" alt="Pyutube" style="width: 100%;">
+<a href="https://ibb.co/Q3yRhBsg">
+  <img src="https://i.ibb.co/Hf5sRvmS/IMG-20251120-013217-680.jpg"
+       alt="Pyutube"
+       style="width: 100%;"
+       border="0">
 </a>
 
 > [!NOTE]
-> Have **a new feature**? Please don't hesitate to [tell me](https://github.com/Hetari/pyutube/issues/new)!
+> Have **a new feature**? Please don't hesitate to [tell me](https://github.com/VOLT5775/VoLTGoLD-YT)!
 
-## 🤔 why `pyutube`?
+## 🤔 why `gold-dl`?
 
 This command-line wizard lets you download YouTube videos or playlists straight from your `Terminal`, powered by [Pytubefix](https://pytubefix.readthedocs.io/). It works like a charm on Windows, Mac, and Linux, so you can rock it on any platform.
 
-While other tools make you wade through a swamp of settings and configs, `Pyutube` keeps it simple. Just drop in your URL, and voilà! It’ll take you on a smooth ride to your favorite videos, no complex options needed—just fun downloading! 🔥
+While other tools make you wade through a swamp of settings and configs, `gold-dl` keeps it simple. Just drop in your URL, and voilà! It’ll take you on a smooth ride to your favorite videos, no complex options needed—just fun downloading! 🔥
 
 ## 🛠️ Installation
 
-Getting `Pyutube` up and running is a breeze! First, ensure you have [Python](https://www.python.org) installed. Just pop open your terminal and type:
+Getting `gold-dl` up and running is a breeze! First, ensure you have [Python](https://www.python.org) installed. Just pop open your terminal and type:
 
 ```bash
 python --version
@@ -47,30 +40,30 @@ python --version
 
 If you see something like `Python 3.x`, you’re all set! If not, head over to [Python's downloads page](https://www.python.org/downloads/) to grab it.
 
-Once you’re good to go, install `Pyutube` with a single command:
+Once you’re good to go, install `gold-dl` with a single command:
 
 ```bash
-pip install pyutube --break-system-packages
+pip install gold-dl --break-system-packages
 ```
 
 And just like that, you’re ready to download some awesome videos! 🎉
 
 ## 📈 Upgrade
 
-Stay in the loop with the latest features on [GitHub](https://github.com/Hetari/pyutube)! To upgrade your `Pyutube` tool, simply run:
+Stay in the loop with the latest features on [GitHub](https://github.com/VOLT5775/VoLTGoLD-YT)! To upgrade your `gold-dl` tool, simply run:
 
 ```bash
-pip install --upgrade pyutube --break-system-packages
+pip install --upgrade gold-dl --break-system-packages
 ```
 
 Then you’re all set to keep downloading from your `Terminal`! 🥳
 
 ## 🦸 Quick Start
 
-Getting started with `Pyutube` is a piece of cake! Just use the following command style:
+Getting started with `gold-dl` is a piece of cake! Just use the following command style:
 
 ```bash
-pyutube "YOUTUBE_LINK" [PATH]
+gold-dlp "YOUTUBE_LINK" [PATH]
 ```
 
 > [!NOTE]
@@ -96,24 +89,24 @@ pyutube "YOUTUBE_LINK" [PATH]
 
 ## 🕵️‍♂️ Examples
 
-For lots of examples, check them out [here](https://github.com/Hetari/pyutube/blob/main/EXAMPLES.md)! Take a deep dive and discover all the ways to use Pyutube. 🚀
+For lots of examples, check them out [here](https://github.com/VOLT5775/VoLTGoLD-YT/blob/main/EXAMPLES.md)! Take a deep dive and discover all the ways to use gold-dl. 🚀
 
 ## 🥰 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you want to change.
-please follow the [contributing guidelines](https://github.com/Hetari/pyutube/blob/main/CONTRIBUTING.md)
+please follow the [contributing guidelines](https://github.com/VOLT5775/VoLTGoLD-YT/blob/main/CONTRIBUTING.md)
 
 ## 📎 License
 
-This project is licensed under the [MIT License](https://github.com/Hetari/pyutube/blob/main/LICENSE.md).
+This project is licensed under the [MIT License](https://github.com/VOLT5775/VoLTGoLD-YT/blob/main/LICENSE).
 
 ## 📸 Screenshots
 
 <!-- for pypi only -->
 <div style="text-align: center;">
    <p>Download video with specify the save location</p>
-   <a href="https://ibb.co/0JkdkQy">
-      <img src="https://t.me/voltdev/327" alt="Download video with specify the save location">
+   <a href="https://ibb.co/Q3yRhBsg">
+      <img src="https://i.ibb.co/Hf5sRvmS/IMG-20251120-013217-680.jpg" alt="Download video with specify the save location">
    </a>
    <p>Chose what type you want to download</p>
    <a href="https://ibb.co/Kb6qjmg">
@@ -128,8 +121,8 @@ This project is licensed under the [MIT License](https://github.com/Hetari/pyutu
       <img src="https://i.ibb.co/1ZS3bV7/Screenshot-from-2024-04-11-16-42-29.png" alt="If you download a playlist, you can choose what video you want to download, or even all of them"/>
    </a>
 <br /><br />
- <p>Do not know how to use it? just type <code>pyutube --help</code></p>
-  <a href="https://ibb.co/LhT6r3r">
+ <p>Do not know how to use it? just type <code>gold-dlp --help</code></p>
+  <a href="https://ibb.co/Q3yRhBsg">
       <img src="https://ibb.co/Kb6qjmg" alt="image5">
    </a>
 </div>

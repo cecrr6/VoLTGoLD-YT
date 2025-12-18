@@ -1,6 +1,6 @@
 {
-  "name": "voltgold-yt",
-  "version": "1.5.0",
+  "name": "gold-dl",
+  "version": "1.5.1",
   "description": "High performance CLI YouTube downloader (video / audio / shorts / playlists). Forked from pyutube and enhanced by VoLTGoLD.",
 
   "main": "index.js",
@@ -33,15 +33,15 @@
 
   "license": "MIT",
 
-  "homepage": "https://github.com/VOLT5775/VoLTGoLD-YT",
+  "homepage": "https://github.com/VOLT5775/voltgold-yt",
 
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VOLT5775/VoLTGoLD-YT.git"
+    "url": "git+https://github.com/VOLT5775/voltgold-yt.git"
   },
 
   "bugs": {
-    "url": "https://github.com/VOLT5775/VoLTGoLD-YT/issues"
+    "url": "https://github.com/VOLT5775/voltgold-yt/issues"
   },
 
   "devDependencies": {
