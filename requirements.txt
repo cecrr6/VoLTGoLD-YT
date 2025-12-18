@@ -1,0 +1,10 @@
+# List of dependencies
+setuptools==75.6.0
+typer==0.15.1
+requests==2.32.3
+rich==13.9.4
+yaspin==3.1.0
+pytubefix==8.8.1
+inquirer==3.4.0
+termcolor==2.3.0
+moviepy==2.1.1

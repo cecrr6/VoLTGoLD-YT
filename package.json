@@ -1,0 +1,50 @@
+{
+  "name": "voltgold-yt",
+  "version": "1.5.0",
+  "description": "High performance CLI YouTube downloader (video / audio / shorts / playlists). Forked from pyutube and enhanced by VoLTGoLD.",
+
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+
+    "release:patch": "generate-changelog -p && git add CHANGELOG.md && git commit -m \"chore: update changelog\" && npm version patch && git push origin && git push origin --tags",
+
+    "release:minor": "generate-changelog -m && git add CHANGELOG.md && git commit -m \"chore: update changelog\" && npm version minor && git push origin && git push origin --tags",
+
+    "release:major": "generate-changelog -M && git add CHANGELOG.md && git commit -m \"chore: update changelog\" && npm version major && git push origin && git push origin --tags"
+  },
+
+  "keywords": [
+    "youtube",
+    "youtube-downloader",
+    "yt-dlp",
+    "cli",
+    "video-download",
+    "audio-download",
+    "playlist-downloader",
+    "pytube",
+    "pytubefix",
+    "voltgold",
+    "pyutube-fork"
+  ],
+
+  "author": "VOLT5775 <https://github.com/VOLT5775>",
+
+  "license": "MIT",
+
+  "homepage": "https://github.com/VOLT5775/VoLTGoLD-YT",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VOLT5775/VoLTGoLD-YT.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/VOLT5775/VoLTGoLD-YT/issues"
+  },
+
+  "devDependencies": {
+    "generate-changelog": "^1.8.0"
+  }
+}
