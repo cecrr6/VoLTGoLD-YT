@@ -34,11 +34,17 @@ class DownloadService:
     # Helpers
     # =========================
     def _filename_from_stream(self, stream, video_id: str) -> str:
+
         """Generate filename as VIDEO_ID.ext"""
+
         try:
-            ext = stream.subtype or "mp4"
+
+            ext = "m4a" if self.is_audio else (stream.subtype or "mp4")
+
         except Exception:
-            ext = "mp4"
+
+            ext = "m4a" if self.is_audio else "mp4"
+
         return f"{video_id}.{ext}"
 
     def _already_downloaded(self, filename: str) -> bool:
@@ -77,7 +83,7 @@ class DownloadService:
 
         if self._already_downloaded(audio_filename):
             console.print("⏭ Audio already exists, skipping download", style="warning")
-            return audio_filename
+            return os.path.join(self.path, audio_filename)
 
         try:
             console.print("⏳ Downloading the audio...", style="info")
@@ -88,7 +94,7 @@ class DownloadService:
             )
             sys.exit()
 
-        return audio_filename
+        return os.path.join(self.path, audio_filename)
 
     # =========================
     # Video
@@ -114,7 +120,7 @@ class DownloadService:
 
             audio_filename = self.download_audio(video, video_audio, video_id)
 
-            self.video_service.merging(video_filename, audio_filename)
+            self.video_service.merging(os.path.join(self.path, video_filename), audio_filename)
 
         except Exception as error:
             error_console.print(

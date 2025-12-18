@@ -3,7 +3,6 @@ This module contains the setup configuration for the VoLTGoLD-YT package.
 """
 
 from setuptools import find_packages, setup
-from pyutube.utils import __version__
 
 # Read the README file to use as the long description
 with open("README.md", "r", encoding="utf-8") as f:
@@ -13,7 +12,7 @@ setup(
     # 🔹 اسم الحزمة (اسم الفورك)
     name="VoLTGoLD-YT",
 
-    version=__version__,
+    version="1.5.0",
 
     # 🔹 بياناتك
     author="VOLT5775",
@@ -67,7 +66,7 @@ setup(
     entry_points={
         "console_scripts": [
             # 🔹 اسم الأمر في التيرمنال
-            "gold=pyutube:cli.app",
+            "gold-dlp=pyutube.cli:app",
         ],
     },
 
