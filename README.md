@@ -14,7 +14,7 @@
 > pip install --upgrade Yousef-ytdlp
 > ```
 
-<a href="https://ibb.co/Q3yRhBsg">
+<a href="https://t.me/MusicxXxYousef/233">
   <img src="https://t.me/MusicxXxYousef/233"
        alt="Yousef-ytdlp"
        style="width: 100%;"
