@@ -1,5 +1,5 @@
-# 📹 gold-dl - The Simplest YouTube Downloader CLI
-# Telegram User Dev ~ @CB6BB
+# 📹 Yousef-ytdlp - The Simplest YouTube Downloader CLI
+# Telegram User Dev ~ @vip_Aws
 
 ### Enjoying my project? Please show your appreciation by starring it on GitHub! ⭐
 
@@ -8,31 +8,31 @@
 <br />
 <br />
 
-> [!NOTE] > `gold-dl` is built on top of `pytubefix`, make sure to have the latest version of `pytubefix` by running:
+> [!NOTE] > `Yousef-ytdlp` is built on top of `Yousef-ytdlp`, make sure to have the latest version of `Yousef-ytdlp` by running:
 >
 > ```bash
-> pip install --upgrade pytubefix
+> pip install --upgrade Yousef-ytdlp
 > ```
 
 <a href="https://ibb.co/Q3yRhBsg">
-  <img src="https://i.ibb.co/Hf5sRvmS/IMG-20251120-013217-680.jpg"
-       alt="Pyutube"
+  <img src="https://t.me/MusicxXxYousef/233"
+       alt="Yousef-ytdlp"
        style="width: 100%;"
        border="0">
 </a>
 
 > [!NOTE]
-> Have **a new feature**? Please don't hesitate to [tell me](https://github.com/VOLT5775/VoLTGoLD-YT)!
+> Have **a new feature**? Please don't hesitate to [tell me](https://github.com/cecrr6)!
 
-## 🤔 why `gold-dl`?
+## 🤔 why `Yousef-ytdlp`?
 
-This command-line wizard lets you download YouTube videos or playlists straight from your `Terminal`, powered by [Pytubefix](https://pytubefix.readthedocs.io/). It works like a charm on Windows, Mac, and Linux, so you can rock it on any platform.
+This command-line wizard lets you download YouTube videos or playlists straight from your `Terminal`, powered by [Yousef-ytdlp](https://Yousef-ytdlp.readthedocs.io/). It works like a charm on Windows, Mac, and Linux, so you can rock it on any platform.
 
-While other tools make you wade through a swamp of settings and configs, `gold-dl` keeps it simple. Just drop in your URL, and voilà! It’ll take you on a smooth ride to your favorite videos, no complex options needed—just fun downloading! 🔥
+While other tools make you wade through a swamp of settings and configs, `Yousef-ytdlp` keeps it simple. Just drop in your URL, and voilà! It’ll take you on a smooth ride to your favorite videos, no complex options needed—just fun downloading! 🔥
 
 ## 🛠️ Installation
 
-Getting `gold-dl` up and running is a breeze! First, ensure you have [Python](https://www.python.org) installed. Just pop open your terminal and type:
+Getting `Yousef-ytdlp` up and running is a breeze! First, ensure you have [Python](https://www.python.org) installed. Just pop open your terminal and type:
 
 ```bash
 python --version
@@ -40,30 +40,30 @@ python --version
 
 If you see something like `Python 3.x`, you’re all set! If not, head over to [Python's downloads page](https://www.python.org/downloads/) to grab it.
 
-Once you’re good to go, install `gold-dl` with a single command:
+Once you’re good to go, install `Yousef-ytdlp` with a single command:
 
 ```bash
-pip install gold-dl --break-system-packages
+pip install Yousef-ytdlp --break-system-packages
 ```
 
 And just like that, you’re ready to download some awesome videos! 🎉
 
 ## 📈 Upgrade
 
-Stay in the loop with the latest features on [GitHub](https://github.com/VOLT5775/VoLTGoLD-YT)! To upgrade your `gold-dl` tool, simply run:
+Stay in the loop with the latest features on [GitHub](https://github.com/cecrr6)! To upgrade your `Yousef-ytdlp` tool, simply run:
 
 ```bash
-pip install --upgrade gold-dl --break-system-packages
+pip install --upgrade Yousef-ytdlp --break-system-packages
 ```
 
 Then you’re all set to keep downloading from your `Terminal`! 🥳
 
 ## 🦸 Quick Start
 
-Getting started with `gold-dl` is a piece of cake! Just use the following command style:
+Getting started with `Yousef-ytdlp` is a piece of cake! Just use the following command style:
 
 ```bash
-gold-dlp "YOUTUBE_LINK" [PATH]
+Yousef-ytdlpp "YOUTUBE_LINK" [PATH]
 ```
 
 > [!NOTE]
@@ -89,16 +89,16 @@ gold-dlp "YOUTUBE_LINK" [PATH]
 
 ## 🕵️‍♂️ Examples
 
-For lots of examples, check them out [here](https://github.com/VOLT5775/VoLTGoLD-YT/blob/main/EXAMPLES.md)! Take a deep dive and discover all the ways to use gold-dl. 🚀
+For lots of examples, check them out [here](https://github.com/cecrr6/blob/main/EXAMPLES.md)! Take a deep dive and discover all the ways to use Yousef-ytdlp. 🚀
 
 ## 🥰 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you want to change.
-please follow the [contributing guidelines](https://github.com/VOLT5775/VoLTGoLD-YT/blob/main/CONTRIBUTING.md)
+please follow the [contributing guidelines](https://github.com/cecrr6/blob/main/CONTRIBUTING.md)
 
 ## 📎 License
 
-This project is licensed under the [MIT License](https://github.com/VOLT5775/VoLTGoLD-YT/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/cecrr6/blob/main/LICENSE).
 
 ## 📸 Screenshots
 
@@ -121,7 +121,7 @@ This project is licensed under the [MIT License](https://github.com/VOLT5775/VoL
       <img src="https://i.ibb.co/1ZS3bV7/Screenshot-from-2024-04-11-16-42-29.png" alt="If you download a playlist, you can choose what video you want to download, or even all of them"/>
    </a>
 <br /><br />
- <p>Do not know how to use it? just type <code>gold-dlp --help</code></p>
+ <p>Do not know how to use it? just type <code>Yousef-ytdlpp --help</code></p>
   <a href="https://ibb.co/Q3yRhBsg">
       <img src="https://ibb.co/Kb6qjmg" alt="image5">
    </a>
