@@ -105,8 +105,8 @@ This project is licensed under the [MIT License](https://github.com/cecrr6/blob/
 <!-- for pypi only -->
 <div style="text-align: center;">
    <p>Download video with specify the save location</p>
-   <a href="https://ibb.co/Q3yRhBsg">
-      <img src="https://i.ibb.co/Hf5sRvmS/IMG-20251120-013217-680.jpg" alt="Download video with specify the save location">
+   <a href="https://t.me/MusicxXxYousef/233">
+      <img src="https://t.me/MusicxXxYousef/233" alt="Download video with specify the save location">
    </a>
    <p>Chose what type you want to download</p>
    <a href="https://ibb.co/Kb6qjmg">
@@ -122,8 +122,8 @@ This project is licensed under the [MIT License](https://github.com/cecrr6/blob/
    </a>
 <br /><br />
  <p>Do not know how to use it? just type <code>Yousef-ytdlpp --help</code></p>
-  <a href="https://ibb.co/Q3yRhBsg">
-      <img src="https://ibb.co/Kb6qjmg" alt="image5">
+  <a hrefhref="https://t.me/MusicxXxYousef/233B
+      <img src src="https://t.me/MusicxXxYousef/233jalt="image5">
    </a>
 </div>
 
